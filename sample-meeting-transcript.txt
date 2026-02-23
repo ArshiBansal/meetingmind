@@ -1,0 +1,45 @@
+Quarterly Business Review — Q1 2026
+Date: February 20, 2026
+Attendees: Neha (CEO), Arjun (Sales Head), Divya (Finance Manager), Sameer (Product Lead), Tanya (HR)
+
+Neha: Good morning everyone. Let's get straight into it. Today's agenda is Q1 performance review, budget reallocation, product roadmap update, and hiring plans. Arjun, let's start with sales.
+
+Arjun: Q1 was strong overall. We closed 38 new clients, which is 15% above our target. Revenue came in at ₹82 lakhs against a goal of ₹74 lakhs. The enterprise segment performed really well — 3 big deals closed in January alone. However, our SMB pipeline is weak going into Q2, so we need to address that.
+
+Neha: Great numbers on enterprise. What's the plan for SMB, Arjun?
+
+Arjun: I want to run a targeted outreach campaign in March. I'll need support from the marketing team and a small budget — around ₹1.5 lakhs for digital ads.
+
+Neha: Approved. Divya, let's talk finances.
+
+Divya: Overall we're in a healthy position. Operating costs were 8% under budget, which gives us some room. However, our cloud infrastructure costs jumped 22% this quarter — that's something Sameer and I need to look at together. Net margin is at 18%, which is solid.
+
+Neha: Sameer, can you look into the cloud cost issue with Divya?
+
+Sameer: Absolutely. We've been running some experiments that added load. I'll audit the usage and present an optimization plan by March 5th.
+
+Neha: Good. Sameer, what's the product update?
+
+Sameer: We launched the analytics dashboard last month — user adoption is at 64% within the first two weeks, which is great. We're now moving into Phase 2, which includes the mobile app and API integrations. Mobile app beta is targeted for April 10th. We've also decided to drop the offline mode feature from the roadmap — it was adding too much complexity for too little demand based on user feedback.
+
+Neha: Agreed on dropping offline mode. Let's not waste resources there. Tanya, hiring?
+
+Tanya: We have 6 open positions right now — 3 engineers, 1 product designer, 1 sales executive, and 1 data analyst. I've shortlisted candidates for the engineering roles and interviews start next week. I'm targeting to close all 6 hires by end of March.
+
+Neha: Let's make sure the engineering hires are done first since they're blocking the mobile app timeline. Tanya, can you prioritize those?
+
+Tanya: Yes, engineering interviews are already first in the queue. Offers should go out by February 28th if all goes well.
+
+Neha: Perfect. Let's also decide on the Q2 company offsite. We've been discussing Coorg vs Goa.
+
+Arjun: Goa is more accessible for the whole team.
+
+Divya: Goa also fits better within the budget we set aside.
+
+Tanya: Team voted Goa in the poll too — 70% preference.
+
+Neha: Then it's settled. Q2 offsite will be in Goa. Tanya, please book the venue and travel by March 10th.
+
+Tanya: Will do.
+
+Neha: Alright, let's wrap up. Quick recap — Arjun runs SMB outreach campaign with ₹1.5L budget, Sameer and Divya audit cloud costs and present plan by March 5th, mobile app beta on track for April 10th, Tanya closes all 6 hires by end of March with engineering offers out by Feb 28th, and offsite booked in Goa by March 10th. Next QBR is scheduled for May 15th. Thanks everyone, great meeting.
